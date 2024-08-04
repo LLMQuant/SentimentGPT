@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="center" width="30%" alt="image" src="https://chatgpt.com/api/content/file-FL7lS65iQnrqPG5BwWYIITh3">
+<img align="center" width="30%" alt="image" src="[https://chatgpt.com/api/content/file-FL7lS65iQnrqPG5BwWYIITh3]">
 </div>
 
 # SentimentGPT: Enhancing Trading with Sentiment Analysis using Large Language Models
