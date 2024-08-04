@@ -1,6 +1,22 @@
 
-# SentimentGPT
+<div align="center">
+<img align="center" width="30%" alt="image" src="https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139">
+</div>
 
+# SentimentGPT: Enhancing Trading with Sentiment Analysis using Large Language Models
+[![Downloads](https://static.pepy.tech/badge/sentimentgpt)]([https://pepy.tech/project/sentimentgpt](https://pepy.tech/project/sentimentgpt))
+[![Downloads](https://static.pepy.tech/badge/sentimentgpt/week)](https://pepy.tech/project/sentimentgpt)
+[![Python 3.8](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![PyPI](https://img.shields.io/pypi/v/sentimentgpt.svg)](https://pypi.org/project/sentimentgpt/)
+![License](https://img.shields.io/github/license/YourUsername/sentimentgpt.svg?color=brightgreen)
+![](https://img.shields.io/github/issues-raw/YourUsername/sentimentgpt?label=Issues)
+![](https://img.shields.io/github/issues-closed-raw/YourUsername/sentimentgpt?label=Closed+Issues)
+![](https://img.shields.io/github/issues-pr-raw/YourUsername/sentimentgpt?label=Open+PRs)
+![](https://img.shields.io/github/issues-pr-closed-raw/YourUsername/sentimentgpt?label=Closed+PRs)
+
+<div align="center">
+<img align="center" src="figs/logo_white_background.jpg" width="40%"/>
+</div>
 **SentimentGPT** is a cutting-edge platform designed to leverage sentiment analysis in trading. Sentiment analysis involves analyzing and interpreting emotions, opinions, and attitudes expressed in text data. Market sentiment refers to market participants' overall attitude and emotions towards a particular financial instrument or market, which can influence buying and selling decisions.
 
 ## Table of Contents
