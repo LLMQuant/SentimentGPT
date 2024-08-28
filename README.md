@@ -3,7 +3,7 @@
 <img align="center" width="30%" alt="image" src="https://github.com/LLMQuant/SentimentGPT/blob/main/sentimentGPT.png">
 </div>
 
-# SentimentGPT: Enhancing Trading with Sentiment Analysis using Large Language Models
+# SentimentGPT: create trading signals using unstructured data with sentiment analysis
 [![Downloads](https://static.pepy.tech/badge/sentimentgpt)]([https://pepy.tech/project/sentimentgpt](https://pepy.tech/project/sentimentgpt))
 [![Downloads](https://static.pepy.tech/badge/sentimentgpt/week)](https://pepy.tech/project/sentimentgpt)
 [![Python 3.8](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
